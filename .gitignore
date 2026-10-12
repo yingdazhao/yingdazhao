@@ -1,0 +1,8 @@
+*
+!/.gitignore
+!/README.md
+!/RIGHTS.md
+!/papers/
+/papers/*
+!/papers/2024_敦煌韵书校读举隅.pdf
+!/papers/2025_晣晰辨.pdf
